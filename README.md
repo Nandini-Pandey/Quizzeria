@@ -1,16 +1,15 @@
-# quizlet
+# Flutter Quiz App
 
-A quiz app with admin panel.
+A beautiful and interactive Flutter-based quiz app that provides a fun way to learn by taking trivia quizzes. The app fetches random questions from a public API based on categories like Science, Literature, Music, and more. Players can select a category and answer 10 questions, then get their score at the end.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Categories**: Choose from multiple categories like Art & Literature, Science, Music, History, Sports, and more.
+- **Randomized Questions**: Questions are fetched dynamically from the Open Trivia Database API.
+- **Score Display**: Shows the score out of 10 after completing the quiz.
+- **Clean UI**: Simple, modern, and aesthetic UI for a pleasant user experience.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot](images/screenshot.png) <!-- Add a link to your screenshot -->
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
